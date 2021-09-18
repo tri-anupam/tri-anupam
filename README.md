@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at ****
+- 👨‍💻 All of my projects are available at **https://github.com/tri-anupam**
 
 - 📫 How to reach me **arvindtri.70@gmail.com**
 
