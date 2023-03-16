@@ -14,8 +14,6 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/tri-anupam**
 
-- 📫 How to reach me **arvindtri.70@gmail.com**
-
 - ⚡ Fun fact **I am Happy.**
 
 ## 🚀 Languages and Tools:
